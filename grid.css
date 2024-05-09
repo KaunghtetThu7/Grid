@@ -1,0 +1,31 @@
+.container{
+    border:1px solid gray;
+    border-radius: 5px;
+    width: 500px;
+    height: 300px;
+    margin:10px 20px 30px 40px;
+    display: grid;
+   grid-template-columns: 1fr 2fr ;
+  
+}
+#d1{
+    width: 200px;
+    height: 300px;
+    border:1px none;
+    border-radius: 5px 0px 0px 5px;
+}
+img{
+    width: 200px;
+    height:300px;
+    border:1px none;
+    border-radius: 5px 0px 0px 5px;
+}
+#d2{
+    padding-left: 10px;
+}
+
+#p1{
+    color:#343a40;
+    font-size: small;
+}
+    
